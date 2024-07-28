@@ -1,1 +1,1 @@
-# AV_DEVS_ResumeAnalyserOpenAI
+# ResumeAnalyserOpenAI
